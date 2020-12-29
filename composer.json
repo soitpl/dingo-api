@@ -14,7 +14,7 @@
     }],
     "require": {
         "php": "^7.2.5|^8.0",
-        "soitpl/dingo-api-blueprint": "^0.4",
+        "soitpl/dingo-api-blueprint": "dev-master",
         "illuminate/routing": "^7.0|^8.0",
         "illuminate/support": "^7.0|^8.0",
         "league/fractal": "^0.19"
